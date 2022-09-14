@@ -8,6 +8,6 @@ icon.onclick = function() {
     }
     else{
         song.pause();
-        icon.src = "assets/Play(1).png";
+        icon.src = "assets/Play.png";
     }
 }
